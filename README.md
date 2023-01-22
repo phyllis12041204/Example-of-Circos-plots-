@@ -1,7 +1,7 @@
 # Example-of-Circos-plots-
 Example of Circos plots using R package shinycircos
 
-# Resources from the British Heart Foundation Data Centre that might be helpful  
-# https://github.com/BHFDSC
+# Please cite
+Yiming Yu, Yidan Ouyang, and Wen Yao. shinyCircos: an R/Shiny application for interactive creation of Circos plot. Bioinformatics. 2017 Nov. 24. doi:10.1093/bioinformatics/btx763
 
 # Please download the pdf file
